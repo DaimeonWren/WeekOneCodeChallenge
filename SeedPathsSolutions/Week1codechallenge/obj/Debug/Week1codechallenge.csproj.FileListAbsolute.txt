@@ -1,0 +1,2 @@
+c:\users\technologist sp\documents\GitHub\WeekOneCodeChallenge\Week1codechallenge\Week1codechallenge\bin\Debug\Week1codechallenge.exe.config
+C:\Users\Technologist SP\Documents\GitHub\WeekOneCodeChallenge\SeedPathsSolutions\Week1codechallenge\bin\Debug\Week1codechallenge.exe.config
